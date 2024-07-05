@@ -1,8 +1,5 @@
 {
     "execMap": {
-        "ts": "ts-node {{pwd}}"
-    },
-    "events": {
-        "restart": "clear"
+        "ts": "ts-node"
     }
 }
